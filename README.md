@@ -16,4 +16,7 @@ Repository of feature models in UVL format integrated with Zenodo and flamapy fo
 ## Official documentation
 
 You can consult the official documentation of the project at [docs.uvlhub.io](https://docs.uvlhub.io/)
-#Cambio en el readme 
+#Cambio 1
+#Cambio 2
+#Cambio con objetivo de hacerse conflictivo
+#Cambio que entra en conflicto
